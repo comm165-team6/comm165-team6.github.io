@@ -1,4 +1,4 @@
-# <b>Analyzing Criminal Activity during the COVID-19 Pandemic</b>
+# <b>Analyzing Criminal Activity during COVID-19</b>
 #### Papa Asibuo, Kyra Hollenbach, Natalie Morgan, and Jenna Simon
 
 ### Purpose
