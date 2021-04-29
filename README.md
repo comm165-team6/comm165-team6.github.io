@@ -1,12 +1,12 @@
 # <b>Analyzing Criminal Activity during COVID-19</b>
 #### Papa Asibuo, Kyra Hollenbach, Natalie Morgan, and Jenna Simon
 
-### Purpose
+### <b>Purpose</b>
 
-### Data Source
+### <b>Data Source</b>
 
-### Crime Rate Findings: Overall Activity Decreases
+### <b>Crime Rate Findings: Overall Activity Decreases</b>
 
-### Twitter Activity: Crime Discussion Increases
+### <b>Twitter Activity: Crime Discussion Increases</b>
 
-### Discussion and Conclusion
+### <b>Discussion and Conclusion</b>
