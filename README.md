@@ -17,7 +17,7 @@ We used two main data sources for analyzing criminal activity during the pandemi
 * [2020](https://opendata.dc.gov/datasets/crime-incidents-in-2020/data?geometry=-77.358%2C38.806%2C-76.671%2C38.993&orderBy=REPORT_DAT)
 * [2021](https://opendata.dc.gov/datasets/crime-incidents-in-2021/data?geometry=-77.358%2C38.806%2C-76.671%2C38.993&orderBy=REPORT_DAT)
 
-Our second source came from scraping Twitter data. In addition to actual records of criminal activity, we were interested in seeing how frequently people were discussing crime on public platforms. To do this, we collected a count of how many tweets in the months of January, February, and March contained keywords relating to crime, for each year from 2012 through 2021. These keywords included "crime", "robbery", "theft", "arson", "assault", and "arrest." As an example of the script we used to collect this data, the following code would receive all tweets in the DC area that contained the word "arrest," from January through March 2021:
+Our second source came from scraping Twitter data using the snscrape Python library. In addition to actual records of criminal activity, we were interested in seeing how frequently people were discussing crime on public platforms. To do this, we collected a count of how many tweets in the months of January, February, and March contained keywords relating to crime, for each year from 2012 through 2021. These keywords included "crime", "robbery", "theft", "arson", "assault", and "arrest." As an example of the script we used to collect this data, the following code would receive all tweets in the DC area that contained the word "arrest," from January through March 2021:
 
 ```
 import pandas as pd
