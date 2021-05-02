@@ -2,7 +2,11 @@
 #### Papa Asibuo, Kyra Hollenbach, Natalie Morgan, and Jenna Simon
 
 ### <b>Purpose</b>
-Crime is a huge aspect and consideration of the public in regard to relevant human safety., and understanding the fluctuations in crime trends and rates may help people have a prepared response. It is also interesting to see if there’s any underlying reasons for spikes or decreases in crimes because of the pandemic. We are predicting/expecting certain crime rates of specific types of crimes to be at a fluctuation compared to years without the COVID-19 pandemic.
+
+In this project, we analyze how different aspects of crime have changed in Washington D.C. over the course of the COVID-19 pandemic. We chose Washington D.C. because it is one the the most diverse metro areas in the United States. Additionally, we were curious if the sudden spike in violent activity seen in D.C. on January 6th was preceded by any noticeable increases in crime in the area. We wanted to focus on a city because larger populations would probably allow us to have a more specific and accurate scope of data. Specifically, we will be analyzing the changes in overall crime rates and how different types of crime rates have fluctuated since the pandemic.
+
+Crime is a huge aspect and consideration of the public in regard to relevant human safety, and understanding the fluctuations in crime trends and rates may help people have a prepared response. It is also interesting to see if there’s any underlying reasons for spikes or decreases in crimes because of the pandemic. We are predicting/expecting certain crime rates of specific types of crimes to be at a fluctuation compared to years without the COVID-19 pandemic.
+
 ### <b>Data Source</b>
 
 We used two main data sources for analyzing criminal activity during the pandemic. Our data on specific records of criminal activity came from Open Data DC. Datasets on crime incidents by year are available at the following links:
