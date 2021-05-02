@@ -50,3 +50,5 @@ As explained in the "Data Source" section, we used the snscrape Python library t
 The chart shows a gradual increase in crime-related discussion on Twitter over the past three years, specifically in 2020 and 2021. The crime discussion on Twitter in 2020 was the highest it had been since 2012. 
 
 ### <b>Discussion and Conclusion</b>
+
+We were initially surprised by the conflict between the recorded criminal activity data, and the Twitter data. While crime levels have been lower during the pandemic, discussion of crime on public platforms such as Twitter has increased. We believe this could be indicitive of general feelings of fear and uncertainty that have accompanied the pandemic. As anxiety around and discussion of crime increases along with the pandemic anxiety, we are more likely to see bursts of violent activity. In the interest of public safety, it is important to be cognizant of how times of uncertainty can influence public behavior.
