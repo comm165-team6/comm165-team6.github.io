@@ -45,6 +45,7 @@ As explained in the "Data Source" section, we used the snscrape Python library t
 
 <iframe width="990" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyletTaL0iV8-2wBCnyWCRGsxeugc9QTDFRjrPpf-iKwYh4zcXPcU7hmeoxnUoZLd3H5qEmLiV3Wnh/pubchart?oid=1939436595&amp;format=interactive"></iframe>
 
+
 The chart shows a gradual increase in crime-related discussion on Twitter over the past three years, specifically in 2020 and 2021. The crime discussion on Twitter in 2020 was the highest it had been since 2012. 
 
 ### <b>Discussion and Conclusion</b>
