@@ -41,4 +41,6 @@ print(tweets_df)
 
 ### <b>Twitter Activity: Crime Discussion Increases</b>
 
+<iframe width="990" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyletTaL0iV8-2wBCnyWCRGsxeugc9QTDFRjrPpf-iKwYh4zcXPcU7hmeoxnUoZLd3H5qEmLiV3Wnh/pubchart?oid=1939436595&amp;format=interactive"></iframe>
+
 ### <b>Discussion and Conclusion</b>
