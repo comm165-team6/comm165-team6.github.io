@@ -52,14 +52,23 @@ For some types of crime, there were no significant increases or decreases. For e
 
 ### <b>Crime by Time, Location, and Ward in 2021</b>
 The following is a visualization showing crime by type and time by ward in Washington, DC. The neighborhoods within each ward are as follows:
-Ward 1: Adams Morgan, Columbia Heights, Kalorama Triangle, LeDroit Park, Mount Pleasant, Park View, Pleasant Plains, Shaw, U Street NW corridor
-Ward 2: Burleith, Chinatown, Downtown, Dupont Circle, Foggy Bottom, Georgetown, Logan Circle, National Mall, Penn Quarter, Shaw, Kalorama, U Street NW corridor, West End
-Ward 3: American University Park, Cathedral Heights, Chevy Chase, Cleveland Park, Forest Hills, Foxhall Crescent, Foxhall Village, Friendship Heights, Glover Park, Kent, Massachusetts Avenue Heights, McLean Gardens, North Cleveland Park, Observatory Circle, Palisades, Spring Valley, Tenleytown, Wakefield, Wesley Heights, Woodley Park
-Ward 4: Barnaby Woods, Brightwood, Brightwood Park, Chevy Chase, Colonial Village, Crestwood, Fort Totten, Hawthorne, Lamond-Riggs, Manor Park, Petworth, Queens Chapel, Shepherd Park, 16th Street Heights, Takoma
-Ward 5: Arboretum, Bloomingdale, Brentwood, Brookland, Carver-Langston, Eckington, Edgewood, Fort Lincoln, Fort Totten, Gateway, Ivy City, Langdon, Michigan Park, North Michigan Park, Pleasant Hill, Queens Chapel, Stronghold, Trinidad, Truxton Circle, Woodridge
-Ward 6: Barney Circle, Capitol Hill, Capitol Riverfront, Hill East, H Street NE corridor, Kingman Park, L’Enfant Plaza, Mount Vernon Triangle, Navy Yard, Near Northeast, NoMa, Shaw, Southwest Waterfront
-Ward 7 : Benning Heights, Benning Ridge, Benning, Burrville, Capitol View, Civic Betterment, Deanwood, Dupont Park, Eastland Gardens, Fairfax Village, Fairlawn, Fort Davis Park, Good Hope, Greenway, Hillcrest, Kenilworth, Kingman Park, Lincoln Heights, Marshall Heights, Mayfair, Naylor Gardens, Northeast Boundary, Penn Branch, Randle Highlands, River Terrace, Skyland, Twining
-Ward 8: Anacostia, Barry Farm, Bellevue, Buena Vista, Congress Heights, Douglass, Fairlawn, Garfield Heights, Joint Base Anacostia-Bolling, Shipley Terrace, Skyland, Washington Highlands, Woodland
+
+<b>Ward 1:</b> Adams Morgan, Columbia Heights, Kalorama Triangle, LeDroit Park, Mount Pleasant, Park View, Pleasant Plains, Shaw, U Street NW corridor
+
+<b>Ward:</b> Burleith, Chinatown, Downtown, Dupont Circle, Foggy Bottom, Georgetown, Logan Circle, National Mall, Penn Quarter, Shaw, Kalorama, U Street NW corridor, West End
+
+<b>Ward 3:</b> American University Park, Cathedral Heights, Chevy Chase, Cleveland Park, Forest Hills, Foxhall Crescent, Foxhall Village, Friendship Heights, Glover Park, Kent, Massachusetts Avenue Heights, McLean Gardens, North Cleveland Park, Observatory Circle, Palisades, Spring Valley, Tenleytown, Wakefield, Wesley Heights, Woodley Park
+
+<b>Ward 4:</b> Barnaby Woods, Brightwood, Brightwood Park, Chevy Chase, Colonial Village, Crestwood, Fort Totten, Hawthorne, Lamond-Riggs, Manor Park, Petworth, Queens Chapel, Shepherd Park, 16th Street Heights, Takoma
+
+<b>Ward 5:</b> Arboretum, Bloomingdale, Brentwood, Brookland, Carver-Langston, Eckington, Edgewood, Fort Lincoln, Fort Totten, Gateway, Ivy City, Langdon, Michigan Park, North Michigan Park, Pleasant Hill, Queens Chapel, Stronghold, Trinidad, Truxton Circle, Woodridge
+
+<b>Ward 6:</b> Barney Circle, Capitol Hill, Capitol Riverfront, Hill East, H Street NE corridor, Kingman Park, L’Enfant Plaza, Mount Vernon Triangle, Navy Yard, Near Northeast, NoMa, Shaw, Southwest Waterfront
+
+<b>Ward 7:</b> Benning Heights, Benning Ridge, Benning, Burrville, Capitol View, Civic Betterment, Deanwood, Dupont Park, Eastland Gardens, Fairfax Village, Fairlawn, Fort Davis Park, Good Hope, Greenway, Hillcrest, Kenilworth, Kingman Park, Lincoln Heights, Marshall Heights, Mayfair, Naylor Gardens, Northeast Boundary, Penn Branch, Randle Highlands, River Terrace, Skyland, Twining
+
+<b>Ward 8:</b> Anacostia, Barry Farm, Bellevue, Buena Vista, Congress Heights, Douglass, Fairlawn, Garfield Heights, Joint Base Anacostia-Bolling, Shipley Terrace, Skyland, Washington Highlands, Woodland
+
 <div class='tableauPlaceholder' id='viz1619995048914' style='position: relative'><noscript><a href='#'><img alt='2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DC&#47;DCCrime2021Project&#47;2021Story&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DCCrime2021Project&#47;2021Story' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DC&#47;DCCrime2021Project&#47;2021Story&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1619995048914'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
 ### <b>Twitter Activity: Crime Discussion Increases</b>
