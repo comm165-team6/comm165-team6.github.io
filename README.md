@@ -55,7 +55,7 @@ The following is a visualization showing crime by type and time by ward in Washi
 
 <b>Ward 1:</b> Adams Morgan, Columbia Heights, Kalorama Triangle, LeDroit Park, Mount Pleasant, Park View, Pleasant Plains, Shaw, U Street NW corridor
 
-<b>Ward:</b> Burleith, Chinatown, Downtown, Dupont Circle, Foggy Bottom, Georgetown, Logan Circle, National Mall, Penn Quarter, Shaw, Kalorama, U Street NW corridor, West End
+<b>Ward 2:</b> Burleith, Chinatown, Downtown, Dupont Circle, Foggy Bottom, Georgetown, Logan Circle, National Mall, Penn Quarter, Shaw, Kalorama, U Street NW corridor, West End
 
 <b>Ward 3:</b> American University Park, Cathedral Heights, Chevy Chase, Cleveland Park, Forest Hills, Foxhall Crescent, Foxhall Village, Friendship Heights, Glover Park, Kent, Massachusetts Avenue Heights, McLean Gardens, North Cleveland Park, Observatory Circle, Palisades, Spring Valley, Tenleytown, Wakefield, Wesley Heights, Woodley Park
 
