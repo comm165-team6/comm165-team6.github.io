@@ -9,13 +9,13 @@ Crime is a huge aspect and consideration of the public in regard to relevant hum
 
 Why analyzing crime is important:
 
-*Gives peace of mind to public
-*Public preparation
-*Estimating & preventing crime
-    *Early identification of crime problems by crime analysts with improved communication within and between law enforcement agencies increases the likelihood of deterring and preventing crime. 
-    *Predictive policing
-*Creating Accurate Budgets for law enforcement
-    *Understanding what resources are needed
+* Gives peace of mind to public
+* Public preparation
+* Estimating & preventing crime
+    * Early identification of crime problems by crime analysts with improved communication within and between law enforcement agencies increases the likelihood of deterring and preventing crime. 
+    * Predictive policing
+* Creating Accurate Budgets for law enforcement
+    * Understanding what resources are needed
 
 ### <b>Data Source</b>
 
