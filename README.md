@@ -7,6 +7,16 @@ In this project, we analyze how different aspects of crime have changed in Washi
 
 Crime is a huge aspect and consideration of the public in regard to relevant human safety, and understanding the fluctuations in crime trends and rates may help people have a prepared response. It is also interesting to see if there’s any underlying reasons for spikes or decreases in crimes because of the pandemic. We are predicting/expecting certain crime rates of specific types of crimes to be at a fluctuation compared to years without the COVID-19 pandemic.
 
+Why analyzing crime is important:
+
+*Gives peace of mind to public
+*Public preparation
+*Estimating & preventing crime
+    *Early identification of crime problems by crime analysts with improved communication within and between law enforcement agencies increases the likelihood of deterring and preventing crime. 
+    *Predictive policing
+*Creating Accurate Budgets for law enforcement
+    *Understanding what resources are needed
+
 ### <b>Data Source</b>
 
 We used two main data sources for analyzing criminal activity during the pandemic. Our data on specific records of criminal activity came from Open Data DC. Datasets on crime incidents by year are available at the following links:
